@@ -2,6 +2,7 @@
 
 from PIL import Image, ImageOps, ImageDraw, ImageFont
 
+#Constants
 final_size = (600, 600)
 profile_image_size = (150, 150)
 social_image_size = (50, 50)
